@@ -59,7 +59,7 @@ DEF TruckInstance Transform {
                 Shape {
                   appearance Appearance {
                     material Material { diffuseColor 0.1 0.1 0.1 }
-                    texture  ImageTexture { url "wheel_texture.png" }
+                    texture  ImageTexture { url "../Textures/wheel_texture.png" }
                   }
                   geometry Cylinder { radius 3.2 height 0.96 }
                 }
@@ -82,7 +82,7 @@ DEF TruckInstance Transform {
                 Shape {
                   appearance Appearance {
                     material Material { diffuseColor 0.1 0.1 0.1 }
-                    texture  ImageTexture { url "wheel_texture.png" }
+                    texture  ImageTexture { url "../Textures/wheel_texture.png" }
                   }
                   geometry Cylinder { radius 3.2 height 0.96 }
                 }
@@ -133,7 +133,7 @@ DEF TrailerInstance Transform {
                 Shape {
                   appearance Appearance {
                     material Material { diffuseColor 0.1 0.1 0.1 }
-                    texture  ImageTexture { url "wheel_texture.png" }
+                    texture  ImageTexture {url "../Textures/wheel_texture.png" }
                   }
                   geometry Cylinder { radius 3.2 height 0.96 }
                 }
@@ -155,7 +155,7 @@ DEF TrailerInstance Transform {
                 Shape {
                   appearance Appearance {
                     material Material { diffuseColor 0.1 0.1 0.1 }
-                    texture  ImageTexture { url "wheel_texture.png" }
+                    texture  ImageTexture {url "../Textures/wheel_texture.png" }
                   }
                   geometry Cylinder { radius 3.2 height 0.96 }
                 }
@@ -177,7 +177,7 @@ DEF TrailerInstance Transform {
                 Shape {
                   appearance Appearance {
                     material Material { diffuseColor 0.1 0.1 0.1 }
-                    texture  ImageTexture { url "wheel_texture.png" }
+                    texture  ImageTexture {url "../Textures/wheel_texture.png" }
                   }
                   geometry Cylinder { radius 3.2 height 0.96 }
                 }
@@ -199,7 +199,7 @@ DEF TrailerInstance Transform {
                 Shape {
                   appearance Appearance {
                     material Material { diffuseColor 0.1 0.1 0.1 }
-                    texture  ImageTexture { url "wheel_texture.png" }
+                    texture  ImageTexture {url "../Textures/wheel_texture.png" }
                   }
                   geometry Cylinder { radius 3.2 height 0.96 }
                 }

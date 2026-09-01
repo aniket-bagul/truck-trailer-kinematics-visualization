@@ -42,7 +42,7 @@ title('Truck-Trailer Simulation');
 xlabel('X (m)'); ylabel('Y (m)');
 
 % Load and show VRML world
-world = vrworld('test.wrl');
+world = vrworld('../VRML/test.wrl');
 open(world);
 fig = vrfigure(world);
 

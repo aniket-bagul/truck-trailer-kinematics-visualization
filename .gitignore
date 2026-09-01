@@ -1,0 +1,14 @@
+# MATLAB temporary files
+*.asv
+*.m~
+*.autosave
+
+# MATLAB generated files
+*.fig
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# MATLAB cache
+slprj/
